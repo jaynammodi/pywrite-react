@@ -1,0 +1,50 @@
+@media (max-width: 1256px) {
+  h1 {
+    font-size: 120px;
+    line-height: 6rem;
+  }
+  .Logobig {
+    width: 25%;
+    margin-left: 0;
+  }
+  .rotate {
+    right: -170px;
+  }
+}
+@media (max-width: 1046px) {
+  h1 {
+    font-size: 100px;
+    line-height: 5rem;
+  }
+  .Logobig {
+    width: 27%;
+    margin-left: -40px;
+  }
+}
+
+@media (max-width: 930px) {
+  .Logobig {
+    width: 20%;
+    margin-left: 5px;
+  }
+}
+
+@media (max-width: 840px) {
+  .Logobig {
+    width: 25%;
+    margin-left: 0px;
+  }
+  .rotate {
+    right: -180px;
+  }
+}
+
+@media (max-width: 830px) {
+  h1 {
+    font-size: 90px;
+    line-height: 5rem;
+  }
+  .Logobig {
+    display: none;
+  }
+}
